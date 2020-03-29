@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans>  
+  <bean id="people" class="com.owen.study.aop.ioc.People" />  
+  <bean id="chicken" class="com.owen.study.aop.ioc.Chicken" />  
+  <bean id="dog" class="com.owen.study.aop.ioc.Dog" />  
+</beans>  
